@@ -1,4 +1,4 @@
 # parth
 my first repository
 <br>
-Author - Parth Munjal
+Author - Parth Munjal (chitkara)
